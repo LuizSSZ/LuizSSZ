@@ -10,13 +10,13 @@ Sou um entusiasta a desenvolvedor apaixonado por resolver problemas e sempre em 
 
 - **Python** 🐍
 - **Ruby** 💎
-- **PHP** 🌐
+- **JavaScript** 🌐
 
 ## 🚀 Linguagens que Estou Aprendendo
 
 - **Java** ☕
 - **C#** 🎯
-- **OCaml** 🌟
+- **Lisp** 🌟
 
 ## 📈 Estatísticas do GitHub
 
