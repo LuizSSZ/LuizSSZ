@@ -11,7 +11,7 @@ Este é o meu Portfólio [https://luizssz.github.io/]
 
 - **Python** 🐍
 - **Ruby** 💎
-- **C* 🇨
+- **C** 🟩
 
 ## 🚀 Linguagens que Estou Aprendendo
 
